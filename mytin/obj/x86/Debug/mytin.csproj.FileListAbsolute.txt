@@ -1,0 +1,8 @@
+D:\学生课表系统\测试\mytin\mytin\bin\Debug\mytin.exe
+D:\学生课表系统\测试\mytin\mytin\bin\Debug\mytin.pdb
+D:\学生课表系统\测试\mytin\mytin\obj\x86\Debug\mytin.Form1.resources
+D:\学生课表系统\测试\mytin\mytin\obj\x86\Debug\mytin.Properties.Resources.resources
+D:\学生课表系统\测试\mytin\mytin\obj\x86\Debug\mytin.csproj.GenerateResource.Cache
+D:\学生课表系统\测试\mytin\mytin\obj\x86\Debug\mytin.exe
+D:\学生课表系统\测试\mytin\mytin\obj\x86\Debug\mytin.pdb
+D:\学生课表系统\测试\mytin\mytin\obj\x86\Debug\mytin.csprojResolveAssemblyReference.cache
